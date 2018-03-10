@@ -6,5 +6,6 @@ angular.module("indexView",['ui.router'])
         templateUrl:'registerPage.html'
     }
 
+
     $stateProvider.state(registerView);
 });
